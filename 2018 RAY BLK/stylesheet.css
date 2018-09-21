@@ -1,0 +1,14 @@
+.btn{
+       color:#dda960;
+    width: 300px;
+    display: flex;
+    font-size: medium;
+    font-family: arial;
+
+    padding: 1px;
+    margin: 10px;
+}
+.wholepage {
+
+    background-color:Black ;
+}
